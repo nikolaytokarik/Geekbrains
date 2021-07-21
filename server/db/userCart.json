@@ -1,0 +1,68 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "id_product": 123,
+            "product_name": "Ноутбук",
+            "price": 45600,
+            "quantity": 20
+        },
+        {
+            "id_product": 456,
+            "product_name": "Мышка",
+            "price": 1000,
+            "quantity": 13
+        },
+        {
+            "quantity": 10,
+            "id_product": 457,
+            "product_name": "Gamepad",
+            "price": 3000
+        },
+        {
+            "quantity": 21,
+            "id_product": 124,
+            "product_name": "Keyboard",
+            "price": 1600
+        },
+        {
+            "quantity": 1,
+            "id_product": 124,
+            "product_name": "Keyboard",
+            "price": 1600
+        },
+        {
+            "quantity": 1,
+            "id_product": 457,
+            "product_name": "Gamepad",
+            "price": 3000
+        },
+        {
+            "quantity": 1,
+            "id_product": 123,
+            "product_name": "Ноутбук",
+            "price": 45600
+        },
+        {
+            "quantity": 1,
+            "id_product": 456,
+            "product_name": "Мышка",
+            "price": 1000
+        },
+        {
+            "quantity": 1,
+            "id_product": 457,
+            "product_name": "Gamepad",
+            "price": 3000,
+            "img": "https://ae01.alicdn.com/kf/H4ef9b2abb78849d8b60beb145e99d916b/Terios-S3-Bluetooth-Gamepad-for-Android-Wireless-Joystick-Gaming-Controller-Black-for-Android-Smartphone-Android-Tv.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 123,
+            "product_name": "Ноутбук",
+            "price": 45600,
+            "img": "https://static8.depositphotos.com/1338574/829/i/600/depositphotos_8299228-stock-photo-laptop-with-blue-graphics.jpg"
+        }
+    ]
+}
